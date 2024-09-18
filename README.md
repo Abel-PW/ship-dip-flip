@@ -4,13 +4,10 @@
   width="75" />
 
 # Ship-Dip-Flip 
-Dit was de eerste game die ik ooit heb gemaakt met behulp van het phazer frameword.
-Je speel als een ruimteschip waar het doel is om zo weel mogelijk sterren te veramelen voordat de zon wordt geraakt door de komeet.
-En ondertussen moet je ook het heete vuur proberen te ontwijken die de zon afschiet! 
-Alle assets voor de game (naast de achtergrond) heb ik zelf gemaakt.
+This was the first game I ever made using the Phaser framework. You play as a spaceship, and the goal is to collect as many stars as possible before the comet hits the sun. Meanwhile, you also have to try to avoid the hot fire that the sun shoots out! I created all the assets for the game (except the background) myself.
 
-## 🏗️ Gemaakt met
-De volgende talen/frameworks en assets zijn gebruikt voor dit project:
+## 🏗️ Made with
+The folowing languages/frameworks and software have been used for this project:
 - [HTML](https://nl.wikipedia.org/wiki/HyperText_Markup_Language) - HyperText Markup Language
 - [CSS](https://en.wikipedia.org/wiki/CSS) - Cascading Style Sheets
 - [JavaScript](https://nl.wikipedia.org/wiki/JavaScript) - Scripting Language
@@ -21,6 +18,6 @@ De volgende talen/frameworks en assets zijn gebruikt voor dit project:
 
 ## 📃 Links
 
-- [Ship-Dip-Flip](https://abel-pw.com/projects/ship-dip-flip)
+- [Ship-Dip-Flip]() - Sadly the game does not work anymore at the moment :( 
 
 <br/>
