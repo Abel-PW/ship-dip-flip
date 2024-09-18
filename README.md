@@ -15,7 +15,7 @@ De volgende talen/frameworks en assets zijn gebruikt voor dit project:
 - [CSS](https://en.wikipedia.org/wiki/CSS) - Cascading Style Sheets
 - [JavaScript](https://nl.wikipedia.org/wiki/JavaScript) - Scripting Language
 - [Phazer](https://phaser.io/) - Game Engine/Javascript Framework
-- [Assets](https://www.aseprite.org/)
+- [Pixelart](https://www.aseprite.org/)
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
